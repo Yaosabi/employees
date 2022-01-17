@@ -1,6 +1,8 @@
 extends layout
 
 block content
+    include mixins/employeeForm
+    +employeeForm('/add', employee, jobtitles, stateslist)
     form(action='/add' method='post')
         label(for='firstname') First Name:
         input(id='firstname' name='firstname' type='text')
