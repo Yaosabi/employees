@@ -20,7 +20,8 @@ module.exports.renderAddEmployeeForm = function(req, res){
                 state:states[0],
                 zip:'',
                 phonenumber:'',
-                yearhired:''
+                yearhired:'',
+                graduated:''
             },
             jobtitles,
             statelist:states
@@ -66,7 +67,8 @@ module.exports.updateEmployee = async function(req, res){
             state:req.body.state,
             zip:req.body.zip,
             phonenumber:req.body.phonenumber,
-            yearhired:req.body.yearhired
+            yearhired:req.body.yearhired,
+            graduated:req.body.graduated
         },
         {
             where:{

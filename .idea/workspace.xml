@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dbd1ec3-ad71-41d6-8cdb-1e26dd6cbec7" name="Changes" comment="checkpoint 2">
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+    <list default="true" id="6dbd1ec3-ad71-41d6-8cdb-1e26dd6cbec7" name="Changes" comment="checkpoint 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/mixins/employeeForm.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/mixins/employeeForm.pug" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +28,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
   <component name="ProjectId" id="23eOEGbBc42qYbtPcUXWZdBjgOE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642090982778</updated>
-      <workItem from="1642090996327" duration="11975000" />
+      <workItem from="1642090996327" duration="12802000" />
+      <workItem from="1642624352424" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="checkpoint 1">
       <created>1642217286611</created>
@@ -65,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642462333163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="checkpoint 3">
+      <created>1642522691425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642522691425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,10 +92,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="checkpoint 1" />
     <MESSAGE value="checkpoint 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="checkpoint 2" />
+    <MESSAGE value="checkpoint 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="checkpoint 3" />
   </component>
 </project>
